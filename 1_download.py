@@ -21,12 +21,9 @@ if not os.path.isdir(outdir):
 Entrez.email = 'your.email@address.here'
 
 # INPUT
-names = []
 with open('names.txt', 'r') as f:
-    for line in f.readlines():
-        line = line.replace('_', ' ')  # replace _ with space
-        line = line.strip()  # remove newline character
-        names.append(line)  # append to list
+    # read each line, set as new item in list, remove \n
+    names = f.read().splitlines()
 
 # DOWNLOAD
 sequences = download(names)  # returns dictionary of named sequences
