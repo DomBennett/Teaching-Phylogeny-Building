@@ -1,100 +1,49 @@
-Cryptogramma_crispa
-Asplenium_adulterinum
-Picea_omorika
-Potamogeton_filiformis
+Cryptogramma crispa
+Picea omorika
+Potamogeton filiformis
 Philesiaceae
-Dactylorhiza_x_dinglensis
-Hemerocallis_fulva
-Chionodoxa_forbesii
-Ornithogalum_boucheanum
-Ornithogalum_umbellatum
-Luzula_multiflora
-Carex_elata
-Carex_randalpina
-Carex_x_oenensis
-Carex_extensa
-Phyllostachys_aurea
-Melica_transsilvanica
-Melica_ciliata
-Elytrigia_junceiformis
-Agrostis_gigantea
-Ranunculus_walo-kochii
-Crassula_tillaea
-Sedum_hirsutum
-Saxifraga_granulata
-Saxifraga_bulbifera
-Vitis_sylvestris
-Viola_lutea
-Salix_helvetica
+Hemerocallis fulva
+Ornithogalum umbellatum
+Luzula multiflora
+Carex elata
+Carex extensa
+Phyllostachys aurea
+Melica ciliata
+Agrostis gigantea
+Crassula tillaea
+Saxifraga granulata
+Viola lutea
 Clusiaceae
-Hypericum_elodes
-Chamaesyce_nutans
-Euphorbia_villosa
-Euphorbia_segetalis
-Cytisus_emeriflorus
-Ulex_europaeus
-Trigonella_caerulea
-Trifolium_diffusum
-Vicia_dasycarpa
-Vicia_dalmatica
-Polygala_alpina
-Rubus_picearum
-Rubus_atrovinosus
-Rubus_bavaricus
-Rubus_caflischii
-Rubus_fuscus
-Rubus_caninitergi
-Rubus_distortifolius
-Rubus_glandisepalus
-Rubus_viscosus
-Rubus_pyramidalis
-Rubus_fuernrohrii
-Rubus_villarsianus
-Geum_montanum
-Potentilla_brauneana
-Alchemilla_plicatula
-Prunus_spinosa
-Sorbus_badensis
+Hypericum elodes
+Chamaesyce nutans
+Euphorbia segetalis
+Ulex europaeus
+Prunus spinosa
 Anisophylleaceae
-Epilobium_palustre
-Oenothera_pyramidiflora
-Bunias_orientalis
-Biscutella_cichoriifolia
-Thlaspi_alliaceum
+Epilobium palustre
 Berberidopsidaceae
-Drosera_intermedia
-Rumex_sanguineus
-Rumex_conglomeratus
-Spergularia_rupicola
+Drosera intermedia
+Rumex sanguineus
+Rumex conglomeratus
+Spergularia rupicola
 Curtisiaceae
-Myosotis_sylvatica
-Myosotis_rehsteineri
+Myosotis sylvatica
 Oncothecaceae
-Cruciata_pedemontana
-Mentha_x_piperita
-Prunella_grandiflora
-Scutellaria_minor
-Utricularia_stygia
-Orobanche_laserpitii-sileris
-Euphrasia_marshallii
-Euphrasia_pseudokerneri
-Veronica_fruticans
-Veronica_verna
-Cuscuta_epilinum
-Phyteuma_scorzonerifolium
-Cirsium_dissectum
-Centaurea_triumfettii
-Hieracium_macranthum
-Hieracium_caesium
-Hieracium_saxifragum
-Petasites_albus
-Leontopodium_alpinum
-Bellis_perennis
-Artemisia_vallesiaca
-Glebionis_segetum
+Prunella grandiflora
+Scutellaria minor
+Utricularia stygia
+Euphrasia pseudokerneri
+Veronica fruticans
+Veronica verna
+Cuscuta epilinum
+Cirsium dissectum
+Centaurea triumfettii
+Petasites albus
+Leontopodium alpinum
+Bellis perennis
+Glebionis segetum
 Helenieae
-Ambrosia_artemisiifolia
-Liatris_spicata
-Eryngium_campestre
-Smyrnium_perfoliatum
-Tordylium_maximum
+Ambrosia artemisiifolia
+Liatris spicata
+Eryngium campestre
+Tordylium maximum
