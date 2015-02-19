@@ -1,7 +1,9 @@
 #! /bin/usr/env python
 # Dom Bennett
 # 19/02/2015
-# Run this script to ensure dependencies are installed
+'''
+Ensures dependencies are installed
+'''
 
 # PACKAGES
 import re

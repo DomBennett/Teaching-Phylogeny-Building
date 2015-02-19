@@ -1,7 +1,9 @@
 #! /bin/usr/env python
 # Dom Bennett
 # 19/02/2015
-# Download sequences from GenBank
+'''
+Downloads sequences from GenBank
+'''
 
 # PACKAGES
 import os  # create, control and modify dirs and files

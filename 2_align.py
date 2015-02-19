@@ -1,7 +1,9 @@
 #! /bin/usr/env python
 # Dom Bennett
 # 19/02/2015
-# Align sequences
+'''
+Aligns sequences
+'''
 
 # PACKAGES
 import os

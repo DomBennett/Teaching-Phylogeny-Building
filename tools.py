@@ -1,8 +1,11 @@
 #! /bin/usr/env python
 # Dom Bennett
 # 19/02/2015
-# Tools for phylogeny-building pipeline
+'''
+Tools for phylogeny-building pipeline
+'''
 
+# PACKAGES
 import os
 import re
 from Bio import Entrez  # talk to NCBI's Entrez
