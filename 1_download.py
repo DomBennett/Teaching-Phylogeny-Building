@@ -1,6 +1,6 @@
 #! /bin/usr/env python
-# [YOUR NAME]
-# [DATE]
+# Dom Bennett
+# 19/02/2015
 # Download sequences from GenBank
 
 # PACKAGES
@@ -10,7 +10,7 @@ from tools import download  # read in your own functions like this
 from tools import timestamp
 
 # START MESSAGE
-print("Download stage, started: [{}]".format(timestamp()))
+print("Download stage, started: [{0}]".format(timestamp()))
 
 # DIRS
 outdir = '1_download'
@@ -34,6 +34,7 @@ with open(os.path.join(outdir, "sequences.fasta"), 'wb') as f:
     for name in sequences.keys():
         seq = sequences[name]  # extract sequence
         if seq:
+            name = name.replace(' ', '_')
             seq.name = name  # make sure seq name is name
             seq.id = name  # make sure seq id is name
             seq = seq.format('fasta')  # convert to fasta format
@@ -41,4 +42,5 @@ with open(os.path.join(outdir, "sequences.fasta"), 'wb') as f:
             counter += 1
 
 # FINISH MESSAGE
-print("Downloaded [{}] sequences. Finished: [{}]".format(counter, timestamp()))
+print("Downloaded [{0}] sequences. Finished: [{1}]".
+      format(counter, timestamp()))
