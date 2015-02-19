@@ -1,3 +1,5 @@
 .DS_Store
 1_download/
+2_align/
+3_estimate/
 *.pyc
