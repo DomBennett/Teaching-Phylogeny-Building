@@ -22,6 +22,7 @@ Brief description and terms of use.
 
 # FUNCTIONS
 def runstage(stage):
+    '''Run python stage script'''
     if os.path.isdir(stage):
         sys.exit('[{0}] already run!'.format(stage))
     cmd = ['python', '-u', '{0}.py'.format(stage)]
