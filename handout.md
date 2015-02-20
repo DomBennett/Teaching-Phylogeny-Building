@@ -1,3 +1,4 @@
+(If this isn't rendered properly, see it [online](https://github.com/DomBennett/Teaching-Phylogeny-Building/blob/master/handout.md))
 # How to build a phylogeny
 
 I've created a framework for generating a phylogeny-building pipeline in Python.
