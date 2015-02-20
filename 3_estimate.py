@@ -1,19 +1,23 @@
 #! /bin/usr/env python
-# [YOUR NAME]
-# [DATE]
-# Generate trees with RAxML
+# [Your name]
+# [Date]
+'''
+Generates trees with RAxML
+'''
 
 # PACKAGES
-from Bio import AlignIO  # read alignments
+import os
+from tools import estimate
+from tools import timestamp
 
 # START MESSAGE
+# TODO
 
 # DIRS
-
-# INPUT
+# TODO
 
 # ESTIMATE
-
-# OUTPUT
+# TODO
 
 # FINISH MESSAGE
+# TODO
