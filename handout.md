@@ -1,5 +1,5 @@
 # How to build a phylogeny
-(If this isn't rendered properly, see it [online](https://github.com/DomBennett/Teaching-Phylogeny-Building/blob/master/handout.md))
+*If this isn't rendered properly, see it [online](https://github.com/DomBennett/Teaching-Phylogeny-Building/blob/master/handout.md)*
 
 I've created a framework for generating a phylogeny-building pipeline in Python.
 The pipeline takes taxonomic names and produces phylogenetic trees. It has 3
